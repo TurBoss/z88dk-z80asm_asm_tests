@@ -24,5 +24,5 @@ EZ80_INIT:
     out0 (CS0_CTL), a
 
     ; setup Stack Pointer
-    ld sp, 0bffffh
+    ;ld sp, 0bffffh
 
